@@ -1,6 +1,8 @@
 # Holiday App
 Lights up an array of LEDs connected to a Raspberry Pi when there is a new tweet. 
 
+![gif](images/holiday-app.gif)
+
 ## Hardware
 - Raspberry Pi 2 Model B v1.1
 - LEDs
