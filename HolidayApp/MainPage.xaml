@@ -12,7 +12,7 @@
             <Ellipse x:Name="LED" Fill="LightGray" Stroke="White" Width="100" Height="100" Margin="10"/>
             <TextBlock x:Name="DelayText" Text="500ms" Margin="10" TextAlignment="Center" FontSize="26.667" />
             <TextBlock x:Name="GpioStatus" Text="Waiting to initialize GPIO..." Margin="10,50,10,10" TextAlignment="Center" FontSize="26.667" />
-            <TextBlock x:Name="TweetText" Text="Waiting for tweet" Margin="10,50,10,10" TextAlignment="Center" FontSize="12" Height="99" />
+            <TextBlock x:Name="TweetText" Text="Waiting for tweet" Margin="10,50,10,10" TextAlignment="Center" FontSize="40" Height="99" TextWrapping="Wrap" />
         </StackPanel>
 
         <!--  Results area  -->
